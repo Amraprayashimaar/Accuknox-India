@@ -1,0 +1,14 @@
+.category-section {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .widget-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  

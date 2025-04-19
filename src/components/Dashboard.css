@@ -1,0 +1,13 @@
+.dashboard {
+    padding: 20px;
+    font-family: Arial;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .categories {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
