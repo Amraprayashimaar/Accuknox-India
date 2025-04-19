@@ -1,8 +1,32 @@
-# React + Vite
+# 📊 Dynamic Dashboard Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based dynamic dashboard UI that allows users to add and remove widgets under different categories dynamically using a JSON structure.
 
-Currently, two official plugins are available:
+## 📸 Screenshot
+![Screenshot 2025-04-19 141010](https://github.com/user-attachments/assets/f6fa88c7-18cd-4dd7-8369-d9c939edd592)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## 🚀 Features
+- Add new widgets by selecting category
+- Remove any widget
+- JSON-based dynamic rendering
+- Fully responsive design
+- Built with ReactJS and CSS only
+
+## 📦 How to Run the Project
+
+1. Clone the repo or download the ZIP  
+2. Open terminal in the folder  
+3. Run these commands:
+
+```bash
+npm install
+npm run dev
+🛠 Tech Stack
+ReactJS (Vite)
+
+Plain CSS (no UI libraries)
+
+🙋‍♀️ Created By
+Arpita Maurya
